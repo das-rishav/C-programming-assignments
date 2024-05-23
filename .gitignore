@@ -1,1 +1,5 @@
-.exe
+# ignore ALL files in ANY directory named temp
+anonymous/
+
+# ignore ALL .log files
+*.exe
