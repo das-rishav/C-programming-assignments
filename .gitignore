@@ -3,3 +3,7 @@ anonymous/
 
 # ignore ALL .log files
 *.exe
+
+# git add .
+# git commit -m "sample"
+# git push
