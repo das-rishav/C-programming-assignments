@@ -1,12 +1,12 @@
-//Use the printf() statement and do the following : 
-//Print out the value of the integer variable sum
-//Print out the text string “Welcome”, followed by a new line. 
-//Print out the character variable letter 
-//Print out the float variable discount 
-//Print out the float variable dump using two decimal places 
-//Use the scanf() statement and do the following: 
-//To read a decimal value from the keyboard, into the integer variable sum 
-//To read a float variable into the variable discount_rate
+/*Use the printf() statement and do the following : 
+Print out the value of the integer variable sum
+Print out the text string “Welcome”, followed by a new line. 
+Print out the character variable letter 
+Print out the float variable discount 
+Print out the float variable dump using two decimal places 
+Use the scanf() statement and do the following: 
+To read a decimal value from the keyboard, into the integer variable sum 
+To read a float variable into the variable discount_rate*/
 #include <stdio.h>
 int main() {
     int sum = 10;
