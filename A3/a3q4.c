@@ -1,3 +1,4 @@
+//Write a program in C to copy the elements of one array into another array.
 #include <stdio.h>
 
 #define SIZE 5 // Change the size of the array as needed
