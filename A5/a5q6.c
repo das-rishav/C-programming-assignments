@@ -1,3 +1,4 @@
+// Write a program that accepts one string. reverse the string without using string function. 
 #include <stdio.h>
 
 int main() {
