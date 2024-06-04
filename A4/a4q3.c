@@ -1,3 +1,4 @@
+//Write a program in C to convert a decimal number to a binary number using function.
 #include <stdio.h>
 
 // Function to convert decimal to binary
