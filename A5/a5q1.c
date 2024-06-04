@@ -1,3 +1,4 @@
+//Write a C program to count the number of vowels and the number of consonants in a word.
 #include <stdio.h>
 #include <ctype.h>
 
