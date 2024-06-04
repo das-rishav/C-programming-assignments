@@ -1,3 +1,4 @@
+//Write a program to print the series 100, 95 , 90, 85,………., 5.
 #include <stdio.h>
 
 int main() {
