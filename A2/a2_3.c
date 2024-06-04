@@ -1,3 +1,4 @@
+//Write a program to accept 2 numbers and tell whether the product of the two numbers is equal to or greater than 1000.
 #include <stdio.h>
 
 int main() {
