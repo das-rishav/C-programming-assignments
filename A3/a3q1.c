@@ -1,9 +1,9 @@
-//Write a program that accepts the following numbers in an array and reverses the array. 
-//34 
-//45 
-//56 
-//67 
-//89
+/*Write a program that accepts the following numbers in an array and reverses the array. 
+34 
+45 
+56 
+67 
+89*/
 #include <stdio.h>
 #define SIZE 5
 int main() 
