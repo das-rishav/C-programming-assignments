@@ -1,3 +1,4 @@
+//Write a program in C to find the sum of all elements of the array.
 #include <stdio.h>
 
 #define SIZE 5 // Change the size of the array as needed
