@@ -1,3 +1,4 @@
+//Write a program in C to sort elements of an array in ascending order.
 #include <stdio.h>
 
 #define SIZE 10
@@ -21,6 +22,5 @@ int main() {
     printf("\nSorted array in ascending order:\n");
     for (int i = 0; i < SIZE; printf("%d ", numbers[i++]));
     printf("\n");
-
     return 0;
 }
