@@ -1,3 +1,4 @@
+//Write a program that accepts one string. Convert all lower case to upper case without using string function.
 #include <stdio.h>
 
 int main() {
