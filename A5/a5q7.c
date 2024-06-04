@@ -1,3 +1,4 @@
+//Write a program that accepts two strings. The program should determine whether the first string occurs at the end of the second string.
 #include <stdio.h>
 
 int main() {
