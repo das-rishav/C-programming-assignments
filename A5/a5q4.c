@@ -1,3 +1,4 @@
+//Write a program that accepts two strings. Check whether these two strings are same or not. 
 #include <stdio.h>
 
 int main() {
