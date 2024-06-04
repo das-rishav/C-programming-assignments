@@ -1,3 +1,4 @@
+//Declare two variables x and y. Assign values to these variables. Number x should be printed only if it is less than 2000 or greater than 3000, and number y shouldbe printed only if it is between 100 and 500.
 #include <stdio.h>
 
 int main() {
