@@ -1,3 +1,4 @@
+//Write a program in C to find the square of any number using function.
 #include <stdio.h>
 
 // Function to calculate the square of a number
