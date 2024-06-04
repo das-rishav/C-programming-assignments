@@ -1,3 +1,4 @@
+//Accept values in three variables and print the highest value.
 #include <stdio.h>
 
 int main() {
