@@ -1,8 +1,8 @@
-//Write a program to accept 2 numbers. Calculate the difference between the two values.
-//If the difference is equal to any of the values entered, then display the following message: 
-//Difference is equal to value 
-//If the difference is not equal to any of the values entered, display the following message: 
-//Difference is not equal to any of the values entered
+/*Write a program to accept 2 numbers. Calculate the difference between the two values.
+If the difference is equal to any of the values entered, then display the following message: 
+Difference is equal to value 
+If the difference is not equal to any of the values entered, display the following message: 
+Difference is not equal to any of the values entered*/
 #include <stdio.h>
 #include <math.h>
 
