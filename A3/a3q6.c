@@ -1,3 +1,4 @@
+//Write a program in C to print all unique elements in an array.
 #include <stdio.h>
 
 #define SIZE 10
