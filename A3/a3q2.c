@@ -1,3 +1,4 @@
+//Write a C program to find the minimum and the maximum value in an array.
 #include <stdio.h>
 
 #define SIZE 5 // Change the size of the array as needed
