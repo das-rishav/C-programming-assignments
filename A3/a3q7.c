@@ -1,3 +1,4 @@
+//Write a program in C to merge two arrays of the same size sorted in descending order.
 #include <stdio.h>
 #define size 5
 int main() {
