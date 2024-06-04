@@ -1,3 +1,4 @@
+// Write a program that accepts one string. Copy the string to another string without using string function. 
 #include <stdio.h>
 
 int main() {
