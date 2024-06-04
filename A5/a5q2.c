@@ -1,3 +1,4 @@
+//Write a program that accepts one string. Find the length of the string without using string function. 
 #include <stdio.h>
 
 int main() {
