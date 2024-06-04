@@ -1,3 +1,6 @@
+//Write a program that replaces two or more consecutive blanks in a string by a single blank. For example, if the input is
+//            Grim         return   to  the    planet   of    apes!!            the output should be
+//            Grim return to the planet of apes!!
 #include <stdio.h>
 
 int main() {
