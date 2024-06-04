@@ -1,3 +1,4 @@
+// Write a program in C to print all perfect numbers in a given range using the function.
 #include <stdio.h>
 
 // Function to check if a number is a perfect number
