@@ -1,3 +1,4 @@
+//Write a program that accepts two numbers a and b and checks whether or not a is divisible by b.
 #include <stdio.h>
 
 int main() {
