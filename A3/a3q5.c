@@ -1,3 +1,4 @@
+//Write a program in C to count the total number of duplicate elements in an array.
 #include <stdio.h>
 
 #define SIZE 10 // Change the size of the array as needed
