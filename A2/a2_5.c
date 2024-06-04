@@ -1,9 +1,9 @@
-//Write a program to evaluate the Grade of a student for the following constraints:
-//   If marks > 75 – grade A
-//    If 60 < marks < 75 – grade B 
-//    If 45 < marks<60 – grade C 
-//    If 35 < marks<45 - grade D 
-//    If marks < 35 – grade E
+/*Write a program to evaluate the Grade of a student for the following constraints:
+   If marks > 75 – grade A
+    If 60 < marks < 75 – grade B 
+    If 45 < marks<60 – grade C 
+    If 35 < marks<45 - grade D 
+    If marks < 35 – grade E*/
 #include <stdio.h>
 
 int main() {
