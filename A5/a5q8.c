@@ -1,3 +1,4 @@
+//Write a C Program to accept 5 names and a prefix. Insert the prefix at the beginning of each name in the array. Display the modified names.
 #include <stdio.h>
 
 int main() {
